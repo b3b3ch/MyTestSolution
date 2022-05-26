@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MySolution.ConsoleApp", "MySolution.ConsoleApp\MySolution.ConsoleApp.csproj", "{198F9BE4-E7A8-483A-827B-550E653368A7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MySolution.Common", "MySolution.Extensions\MySolution.Common.csproj", "{13F8E03E-4E6D-44A5-B34D-BA2A1B27E4D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MySolution.Common", "MySolution.Common\MySolution.Common.csproj", "{13F8E03E-4E6D-44A5-B34D-BA2A1B27E4D0}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MySolution.Common.Tests", "MySolution.Common.Tests\MySolution.Common.Tests.csproj", "{160011E7-B512-417C-8916-DDFB9F819036}"
 EndProject
